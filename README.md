@@ -51,7 +51,3 @@ Se sustituyó la tecnología obsoleta por una arquitectura **DCS Ascon** program
 * **SCADA:** Indusoft Web Studio v8 (AVEVA).
 * **Protocolos:** Ethernet TCP/IP, CanOpen.
 * **Estándar de Programación:** IEC 61131-3.
-
----
-
-¿Te gustaría que te ayude a redactar una breve introducción sobre tu rol como **Coordinador de Proyectos** específicamente para este caso, resaltando cómo lideraste la transición de hardware dañado a este sistema moderno?
